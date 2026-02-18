@@ -1,10 +1,10 @@
 # 🐍 Python Masterclass ├── └──│
 
-Welcome to my comprehensive collection of Python notes! This repository contains detailed Jupyter Notebooks covering everything from functional programming foundations to advanced architectural patterns like Abstraction and Polymorphism.
+Welcome to my comprehensive collection of Python notes!
 
 ## 📂 Repository Structure & Learning Path
 
-The notebooks are organized logically to guide you from basic concepts to advanced engineering principles. Follow the tree structure below to navigate the topics in order.
+Follow the tree structure below to navigate the topics in order.
 
 ```text
 root/
@@ -46,17 +46,14 @@ root/
 │   │
 │   ├──  InnerClasses.ipynb
 │   │
-│   ├── Polymorphism/
-│   │    ├── Polymorphism.ipynb
-│   │    ├── MethodOverloading.ipynb
-│   │    ├── MethodoOverriding.ipynb
-│   │    ├── OperatorOverloading.ipynb
-│   │    ├── GeneralizationAndSpecialization.ipynb
-│   │    ├── AbstractClassAndInterfces.ipynb
-│   │    └── MethodResolution
+│   └── Polymorphism/
+│        ├── Polymorphism.ipynb
+│        ├── MethodOverloading.ipynb
+│        ├── MethodoOverriding.ipynb
+│        ├── OperatorOverloading.ipynb
+│        ├── GeneralizationAndSpecialization.ipynb
+│        ├── AbstractClassAndInterfces.ipynb
+│        └── MethodResolution
 │   
 │   
-└── 07-Advanced-Design/                 # Architecture and Patterns
-    ├── 01-Abstract-Base-Classes.ipynb  # ABC module, interfaces
-    ├── 02-Inner-Classes.ipynb          # Nested classes for composition
-    └── 03-Generalization-vs-Spec.ipynb # Architectural design principles
+└── OSModule/
